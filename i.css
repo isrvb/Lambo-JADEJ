@@ -40,9 +40,10 @@ section{
 
 header{
     background: rgba(0, 0, 0, 0.7);
-    width: 100%;
+    width: 98%;
     position: fixed;
     z-index: 100;
+    align-items: center;
 }
 nav{
     float: right;

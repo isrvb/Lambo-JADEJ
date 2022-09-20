@@ -65,6 +65,7 @@ nav ul li a{
 }
 nav ul li:hover{
     background: #eca023;
+    border-radius:3px;
 }
 .title{
     text-align: center;

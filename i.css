@@ -97,7 +97,7 @@ h2{
     width: 350px;
 }
 .card .cover{
-    width: 100%;
+    width: 88%;
     height: 250px;
     position: relative;
     overflow: hidden;
@@ -119,8 +119,8 @@ h2{
 }
 
 .card .img__back{
-    width: 500px;
-    height: 300px;
+    width: 350px;
+    height: 255px;
     position: absolute;
     bottom: -80px;
     left: -14;
@@ -145,6 +145,7 @@ h2{
 }
 
 .card .description{
+    width:;
     background: white;
     margin-top: -25px;
     padding: 20px;

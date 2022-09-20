@@ -98,10 +98,11 @@ h2{
     width: 350px;
 }
 .card .cover{
-    width: 88%;
+    width: 92%;
     height: 250px;
     position: relative;
     overflow: hidden;
+    left: -13px;
 }
 
 .card .cover img{
